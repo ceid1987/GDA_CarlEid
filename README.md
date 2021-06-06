@@ -9,5 +9,7 @@ I used some quixel assets which are located in the "Megascans" folder in the pro
 All the assets located outside this folder are ones I made in blender and substance painter.
 
 The "Levels" folder contains the levels for this project:
+
 Tutorial Level - Assignment 0
+
 Street_01 - Assignments 01 and 02
